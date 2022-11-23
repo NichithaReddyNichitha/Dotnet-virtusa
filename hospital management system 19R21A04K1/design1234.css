@@ -1,0 +1,25 @@
+div{
+    background-color: lightgrey;
+    width: 800px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+     }
+     p{
+        font-size: 50px;
+        color: red;
+        font-weight: 200;
+     }
+     
+    figcaption {
+       background-color: lightcoral;
+       background-size:cover;
+       color: white;
+       font-style: italic;
+    
+    
+     }
+     dialog{
+       color: aquamarine;
+     }
+     
