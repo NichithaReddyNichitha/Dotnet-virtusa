@@ -1,0 +1,38 @@
+{
+ margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:"poppins",sans-serif;
+}
+body{
+     min-height:100vh;
+display:flex;
+align
+.container.cover::before{
+content:'';
+position:absolute;
+height:100%;
+width:100%;
+background:#7d2ae8;
+opacity:0.5;
+z-index:100;
+}
+.container.cover img{
+position:absolute;
+height:100%
+width:100%
+object-fit:cover;
+z-index:12;
+backface-visibility:hidden;
+}
+
+.container form{
+position:absolute;
+height:100%
+width:100%
+background:#fff;
+}
+.container.form-content{
+display:flex;
+align-items:center;
+justify-content:source-between;
